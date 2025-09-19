@@ -1,3 +1,3 @@
-module github.com/AnyCPU/portaudio
+module github.com/AnyCPU/go-portaudio
 
 go 1.18
